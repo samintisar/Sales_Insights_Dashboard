@@ -5,7 +5,7 @@ This project is a **Power BI dashboard** that analyzes sales performance for a *
 
 ## 🛠️ Tools Used
 - **Power BI** – For data visualization and interactive dashboard creation
-- **SQL (MySQL)** – For data extraction, transformation, and analysis
+- **SQL (MySQL)** – For data generation, extraction, transformation, and analysis
 
 ## 📈 Key Insights
 🔹 **Revenue Performance**
@@ -34,6 +34,9 @@ This project is a **Power BI dashboard** that analyzes sales performance for a *
 | `markets` | Market information with region classifications |
 | `products` | Product categories (Own Brand, Distribution) |
 | `date` | Date dimension for time-based analysis |
+
+## 📸 Dashboard Screenshot
+![alt text](dashboard_screenshot.png)
 
 ## 🔌 How to Use
 1. **Clone the repository**:
