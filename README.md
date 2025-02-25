@@ -6,6 +6,7 @@ This project is a **Power BI dashboard** that analyzes sales performance for a *
 ## 🛠️ Tools Used
 - **Power BI** – For data visualization and interactive dashboard creation
 - **SQL (MySQL)** – For data generation, extraction, transformation, and analysis
+- **MySQL Database Dump** – The dataset for this project is generated using a MySQL database dump (db_dump_version_2.sql), which contains structured data for transactions, customers, markets, and products.
 
 ## 📈 Key Insights
 🔹 **Revenue Performance**
