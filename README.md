@@ -1,4 +1,4 @@
-# 📊 AtilQ Sales Insights Dashboard
+# 📊 Sales Insights Dashboard
 
 ## 🚀 Project Overview
 This project is a **Power BI dashboard** that analyzes sales performance for a **Brick & Mortar and E-Commerce business**. The dashboard provides insights into **revenue trends, profit margins, and key customer and product metrics** to support data-driven decision-making.
